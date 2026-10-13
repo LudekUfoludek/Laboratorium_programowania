@@ -1,0 +1,30 @@
+Mathematics is the study of numbers, quantities, shapes, and patterns.
+Algebra deals with symbols and the rules for manipulating these symbols.
+Calculus is the mathematical study of continuous change and motion.
+Geometry concerns properties of space such as distance, shape, and relative position.
+Probability theory measures the likelihood of random events occurring.
+Linear algebra studies vectors, matrices, and linear transformations between vector spaces.
+Statistics is the discipline that concerns the collection, analysis, and interpretation of numerical data.
+A prime number is a natural number greater than one that cannot be formed by multiplying two smaller natural numbers.
+The Pythagorean theorem relates the three sides of a right triangle.
+Differential equations describe how quantities change with respect to other variables.
+Topology examines properties that are preserved through continuous deformations of spaces.
+Number theory investigates the properties and relationships of integers and prime numbers.
+A function maps each element of one set to exactly one element of another set.
+Mathematicians use logical reasoning and rigorous proofs to establish theorems and lemmas.
+Set theory provides a foundational framework for all of modern mathematics.
+The French Revolution began in 1789 and dramatically transformed European political history.
+The Roman Empire lasted for centuries and influenced laws and languages across Europe.
+World War One started in 1914 after the assassination of Archduke Franz Ferdinand.
+Ancient Egypt is famous for its pyramids, pharaohs, and hieroglyphic writing system.
+The Renaissance was a cultural and intellectual movement that began in Italy during the fourteenth century.
+Christopher Columbus reached the Americas in 1492 while sailing under the Spanish flag.
+The Industrial Revolution transformed agrarian societies into industrial and urban economies.
+The Berlin Wall fell in 1989, symbolizing the end of the Cold War in Europe.
+Napoleon Bonaparte rose to power after the French Revolution and conquered much of Europe.
+The Magna Carta was signed in 1215 and limited the power of the English monarchy.
+Ancient Greek civilization gave rise to democracy, philosophy, and classical drama.
+The discovery of the New World by European explorers reshaped global trade and colonization.
+World War Two ended in 1945 after years of conflict across Europe, Asia, and the Pacific.
+The Ottoman Empire ruled large parts of southeastern Europe, western Asia, and northern Africa for centuries.
+Historians study primary sources such as letters, treaties, and chronicles to understand past events.
